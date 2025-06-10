@@ -97,6 +97,9 @@ BATCH_NOTIFICATION_THRESHOLD=5
 # Application Configuration
 PROCESSOR_USER_ID=email-processor-main
 NODE_ENV=development
+
+# Continuous Mode Settings
+EMAIL_CHECK_INTERVAL_MINUTES=1
 ```
 
 ### Phone Number Format
